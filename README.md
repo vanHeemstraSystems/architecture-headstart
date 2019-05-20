@@ -13,4 +13,9 @@ Architecture is how things link together
 Agile is about technology delivery
 Architecture is about technology value
 
-Architecture is there to serve the business.
+Architecture is there to serve the business. How to create an architecture that is of strategic value to the organisation.
+
+Architecture is a profession, not a job.
+
+IASA is an organisation for Software Architects.
+https://iasaglobal.org/
